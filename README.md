@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**ramimina/ramimina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student working on their coding skills. Still new to all this🫡
 
-Here are some ideas to get you started:
+🔭 I’m currently working on different projects such as making a happy birthday card, 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="413" alt="image" src="https://github.com/user-attachments/assets/31b9e388-23fb-4594-b9ca-d9283c78b512" />
+
+or creating a project tht contributes to relaxation.
+
+You can ask me about anything. I may not be a professional, but I got the spirit to help =)))
+
+- 📫 How to reach me:
+- https://www.instagram.com/?hl=en (My instagram)
+
+⚡ Fun fact:
+
+I love dogs, if you already can't see =))
+
+![image](https://github.com/user-attachments/assets/7e2967ed-d742-451b-ade5-0a535c325985)
+
+Like any breed. I love all ❤️
