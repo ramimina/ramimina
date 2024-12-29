@@ -27,7 +27,7 @@ Like any breed. I love all ❤️
     <a href="https://www.linkedin.com/in/megadwia/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
     </a>
-    <a href="https://github.com/Megadwiastuti" target="_blank">    
+    <a href="[https://github.com/Megadwiastuti](https://github.com/ramimina)" target="_blank">    
     <img src="https://img.shields.io/badge/github-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white&color=071A2C" alt="Github"/>
     </a>
     <a href="https://public.tableau.com/app/profile/mega.dwi.astuti" target="_blank">  
